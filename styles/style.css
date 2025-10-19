@@ -1,0 +1,86 @@
+body, button {
+	background-color: #fceac2;
+	color: #6d6987;
+	font-family: "Garamond", Garamond, serif;
+}
+
+a {
+	color: #6d6987;
+}
+
+button {
+	border: none;
+	font-size: 16px;
+    text-decoration-line: underline;
+}
+
+button:hover {
+	cursor: pointer;
+	text-decoration-line: none;
+}
+
+.navbar {
+	font-family: "Garamond", Garamond, serif;
+	width: fit-content;
+	border-style: double;
+	border-color: #6d6987;
+	text-align: justify;
+	margin: 0 auto;
+	margin-bottom: 21.44px;
+}
+
+.navbar > a {
+	padding: 5px;
+}
+
+#epigraph {
+	margin-left: 16%;
+	margin-right: 16%;
+}
+
+#bodybox {
+	margin-left: 15%;
+	margin-right: 15%;
+	padding: 15px;
+	border-style: inset;
+	border-color: #6d6987;
+	background-color: #f7eacf;
+}
+
+#postlist {
+    margin-left: 5%;
+    margin-right: 5%;	
+}
+
+#licensebox {
+	text-align: right;
+	font-size: 12px;
+}
+
+.footnote-container {
+	font-size: 12px;
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+
+.posttitle {
+	font-size: 18px;
+}
+
+.center {
+	text-align: center;
+	}
+
+.imgcenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.imgstarthidden {
+	display: none;
+}
+
+.footnote {
+	text-decoration-line: none;
+}
